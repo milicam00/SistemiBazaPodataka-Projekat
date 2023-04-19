@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OracleWebAPI", "OracleWebAPI\OracleWebAPI.csproj", "{303A2DA3-5A08-4525-8B8A-0762A12182F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PuteviLibrary", "ProdavnicaLibrary\PuteviLibrary.csproj", "{D2751FAA-CF31-4F5D-B443-1415F53F8C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303A2DA3-5A08-4525-8B8A-0762A12182F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303A2DA3-5A08-4525-8B8A-0762A12182F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303A2DA3-5A08-4525-8B8A-0762A12182F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303A2DA3-5A08-4525-8B8A-0762A12182F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2751FAA-CF31-4F5D-B443-1415F53F8C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2751FAA-CF31-4F5D-B443-1415F53F8C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2751FAA-CF31-4F5D-B443-1415F53F8C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2751FAA-CF31-4F5D-B443-1415F53F8C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A426534-34BC-46BC-989A-25B215445056}
+	EndGlobalSection
+EndGlobal
